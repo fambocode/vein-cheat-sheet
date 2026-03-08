@@ -20,3 +20,23 @@ If you do not see this or cannot map your binding to `Insert`, you will need to 
 Once you see the console, typing `ShowHUD` will toggle the feature on or off.
 
 ***
+## Q: Where are my saved games located?
+
+## A: 
+***
+## Q: Where are my configuration files located?
+
+## A:
+In Linux, you'll typically find your configuration files in `../steamapps/common/Vein/Vein/Saved/Config/Linux/`
+In Windows, you'll typically find your configuration files in `..\steamapps\common\Vein\Vein\Saved\Config\Windows\`
+***
+## Q: Can my saved game or world be configured after it's been created?
+***
+## Q: Why are my plants Dying?
+***
+## Q: Are controllers supported?
+***
+## Q: How often are patches released?
+***
+## Q: How do I join the Experimental Branch
+***
