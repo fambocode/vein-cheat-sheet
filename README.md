@@ -6,6 +6,7 @@
 * [File Locations](#locations)
 * [Console Commands](#commands)
 * [Troubleshooting](#troubleshooting)
+* [Common Abbreviations](#commonabbreviations)
 * [Bug Reporting](#reporting)
 
 ---
@@ -96,6 +97,14 @@ VEIN does not currently support RCON.
 `vein.AISpawner.SpawnCapMultiplierZombie=5` - as an example this would set your AI's zombie multiplier slider to 5x
 
 This can also be adjusted manually by accessing the `Engine.ini` file within your server's file configuration location.
+
+---
+<a name="commonabbreviations"></a>
+## ⚠️ Common Abbreviations and Terms
+
+## **Q:** What does UC mean?
+
+### **A:** UC is an abbreviation for the game's Utility Cabinet.  You build the UC from within your `B`uild menu within the game.  The UC is required to build other items. in your world.
 
 ---
 
